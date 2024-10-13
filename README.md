@@ -1,6 +1,6 @@
 # V2Ray Free Configs
 
-<p align='center'><strong>2024-10-13 每日免费节点，12点更新，更多机场VPN优惠信息：<a href=https://jichangvpn.github.io>jichangvpn.github.io</a></strong></p>
+<p align='center'><strong>2024-10-13 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href=https://jichangvpn.github.io>jichangvpn.github.io</a></strong></p>
 
 
 <p align='center'><img src='img/1.png' alt='QR Code' width='300'></p>
