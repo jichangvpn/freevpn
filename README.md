@@ -1,6 +1,6 @@
 # V2Ray Free Configs
 
-<p align='center'><strong>2024-11-26 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://jichangvpn.github.io">jichangvpn.github.io</a></strong></p>
+<p align='center'><strong>2024-11-27 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://jichangvpn.github.io">jichangvpn.github.io</a></strong></p>
 <p align='center'><strong>Telegram群:<a href="https://t.me/autofreevpn">@autofreevpn</a></strong></p>
 
 
@@ -24,116 +24,116 @@
 
 <p align='center'><img src='img/2.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#0%7C--1</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#0%7C--1</code></p>
 
 <p align='center'><img src='img/3.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#0%7C--2</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#0%7C--3</code></p>
 
 <p align='center'><img src='img/4.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.46:443#0%7C--3</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#0%7C--15</code></p>
 
 <p align='center'><img src='img/5.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#0%7C--4</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#0%7C--17</code></p>
 
 <p align='center'><img src='img/6.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#0%7C--5</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzAgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAwIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9</code></p>
 
 <p align='center'><img src='img/7.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#0%7C--6</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzEgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAxIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9</code></p>
 
 <p align='center'><img src='img/8.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#0%7C--7</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzIgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAyIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9</code></p>
 
 <p align='center'><img src='img/9.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.46:6379#0%7C--8</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzMgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAzIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9</code></p>
 
 <p align='center'><img src='img/10.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#0%7C--9</code></p>
+<p align='center'><code>trojan://QwwHvrnN@36.151.192.242:14505?allowInsecure=1#13,14|香港|@ripaojiedian</code></p>
 
 <p align='center'><img src='img/11.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#0%7C--10</code></p>
+<p align='center'><code>trojan://QwwHvrnN@36.151.192.196:42395?allowInsecure=1#13,14|香港2|@ripaojiedian</code></p>
 
 <p align='center'><img src='img/12.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#0%7C--11</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA1MzAwMiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==</code></p>
 
 <p align='center'><img src='img/13.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#0%7C--12</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWQ2NmNiMy03MzRkLTRjYzktOTE4Zi04OGIzZjllMjgyNDk=@183.240.255.75:11001#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/14.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM1IiwgImFkZCI6ICI1Ny4xMjkuMjguNjkiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInNuaSI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MifQ==</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjQ4LjE2MyIsICJwb3J0IjogNTg4MzEsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=</code></p>
 
 <p align='center'><img src='img/15.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM2IiwgImFkZCI6ICIyMy4yMjcuMzguMyIsICJwb3J0IjogMjA5NSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgInNuaSI6ICJjMi42MDE2NzI1Lnh5eiIsICJob3N0IjogImMyLjYwMTY3MjUueHl6IiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0=</code></p>
+<p align='center'><code>ss://YWVzLTI1Ni1nY206Y2JkMTJmOTQtYmZhMi00MDc5LTk1YmItNTBjNDlkN2FhZjdl@117.176.203.229:30017#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/16.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzAgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAwIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjI2NDJkOC0xYWI2LTRjYmQtODI2ZC1kM2U5ZWZkZjAzNzc=@183.232.229.165:11001#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF8%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/17.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzEgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAxIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTM5M2JjZS05ZjFkLTQyNjMtOThmMC0yN2JmMGY2NDBhNzc=@jsyd.yeahfast.com:35632#13%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/18.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzIgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAyIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9</code></p>
+<p align='center'><code>trojan://QwwHvrnN@36.151.192.203:44673?allowInsecure=1#13,14,15|CN_speednode_0013</code></p>
 
 <p align='center'><img src='img/19.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzMgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAzIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@107.148.6.121:8388#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/20.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>trojan://QwwHvrnN@36.151.192.242:14505?allowInsecure=1#13,14|香港|@ripaojiedian</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWQ2NmNiMy03MzRkLTRjYzktOTE4Zi04OGIzZjllMjgyNDk=@61.172.235.22:11002#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/21.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>trojan://QwwHvrnN@36.151.192.196:42395?allowInsecure=1#13,14|香港2|@ripaojiedian</code></p>
+<p align='center'><code>trojan://QwwHvrnN@36.151.192.198:36900?allowInsecure=1#13,14|韩国|@ripaojiedian</code></p>
 
 <p align='center'><img src='img/22.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA1MzAwMiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==</code></p>
+<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzU3MWI0My1mOTQwLTQxMGMtYmY2Yi1mMzVkMmRiMTlhMTc=@jsyd.yunnode.win:31650#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/23.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjQ4LjE2MyIsICJwb3J0IjogNTg4MzEsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=</code></p>
+<p align='center'><code>ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.108.239:443#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/24.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYjc0MWQyOC1jZDExLTRjZTgtODc5OS00NTk0MDdiYWNkZTg=@2.api-catssr.catcloud.host:13274#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian</code></p>
+<p align='center'><code>ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.52.114:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/25.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://YWVzLTI1Ni1nY206Y2JkMTJmOTQtYmZhMi00MDc5LTk1YmItNTBjNDlkN2FhZjdl@117.176.203.229:30017#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian</code></p>
+<p align='center'><code>ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.168.231.174:443#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/26.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>trojan://728A9437-AF3A-42C1-C1C8-0C87337E119C@bepgzbgp01.114837322.xyz:14404?allowInsecure=1&sni=mpvideo.qpic.cn#13,14|香港9|@ripaojiedian</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiAiNTMwMDIiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=</code></p>
 
 <p align='center'><img src='img/27.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HufCfh7wg5Y+w5rm+fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInIxLnhpbnlvLm1lIiwgInBvcnQiOiA0MDIwMSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxMzg2YmE2LWIwZmUtNDA3MC1iZTY3LWE2Mzg0Y2Y2YmViNSJ9</code></p>
+<p align='center'><code>ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMlpXUTJObU5pTXkwM016UmtMVFJqWXprdE9URTRaaTA0T0dJelpqbGxNamd5TkRr@183.240.255.75:11001#14%7C%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/28.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>trojan://QwwHvrnN@36.151.192.203:44673?allowInsecure=1#13,14|日本|@ripaojiedian</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjQ4LjE2MyIsICJwb3J0IjogIjU4ODMxIiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9</code></p>
 
 <p align='center'><img src='img/29.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNjIwYmEyOC1mYzJlLTQ5MDQtYjM0YS0yNTY4ODMyMjNhOGY=@61.172.235.22:11003#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian</code></p>
+<p align='center'><code>ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2WTJKa01USm1PVFF0WW1aaE1pMDBNRGM1TFRrMVltSXROVEJqTkRsa04yRmhaamRs@117.176.203.229:30017#14%7C%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian</code></p>
 
 <p align='center'><img src='img/30.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>trojan://ad6e2bae-d580-4117-aa37-a8c111100740@naiu-jp.05vr9nyqg5.download:13012?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|日本5|@ripaojiedian</code></p>
+<p align='center'><code>ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbFlqSTJOREprT0MweFlXSTJMVFJqWW1RdE9ESTJaQzFrTTJVNVpXWmtaakF6Tnpj@183.232.229.165:11001#14%7C%E9%A6%99%E6%B8%AF8%7C%40ripaojiedian</code></p>
