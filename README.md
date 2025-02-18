@@ -1,6 +1,6 @@
 # V2Ray Free Configs
 
-<p align='center'><strong>2025-02-17 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://jichangvpn.github.io">jichangvpn.github.io</a></strong></p>
+<p align='center'><strong>2025-02-18 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://jichangvpn.github.io">jichangvpn.github.io</a></strong></p>
 <p align='center'><strong>Telegram群:<a href="https://t.me/autofreevpn">@autofreevpn</a></strong></p>
 
 
@@ -24,116 +24,12 @@
 
 <p align='center'><img src='img/2.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiIsICJhZGQiOiAiMTA0LjE5LjM4LjYyIiwgInBvcnQiOiAyMDg2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUifQ==</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAi5bqG56Wd5Lqa5Yas5Lya6IOc5Yip5Y+s5byAIiwgImFkZCI6ICJ3ZWIuNTEubGEiLCAicG9ydCI6ICI0NDMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4IiwgInNuaSI6ICJ3ZWIuNTEubGEifQ==</code></p>
 
 <p align='center'><img src='img/3.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMSIsICJhZGQiOiAiMTA0LjE5LjQ3LjEyMiIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5In0=</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAi5pWP5oSf5pe25pyf77yM5pu05paw5pqC5YGcIiwgImFkZCI6ICJ3ZWIuNTEubGEiLCAicG9ydCI6ICI0NDMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiYzZlODQwNzItMmU2OS00OTI4LTkwYWYtNDM2YjNmY2QwNjYzIiwgInNuaSI6ICJ3ZWIuNTEubGEifQ==</code></p>
 
 <p align='center'><img src='img/4.png' alt='QR Code' width='300'></p>
 
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSwzLDYsMTEsMTd88J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKcgIzEwIiwgImFkZCI6ICIxMDQuMTkuNTcuNCIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5In0=</code></p>
-
-<p align='center'><img src='img/5.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMiIsICJhZGQiOiAiMTA0LjE5LjQ3Ljc5IiwgInBvcnQiOiAyMDg2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkifQ==</code></p>
-
-<p align='center'><img src='img/6.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@163.172.64.22:989#1%7C_FR_-%3E_RU_</code></p>
-
-<p align='center'><img src='img/7.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMyIsICJhZGQiOiAiMTA0LjE5LjQ2LjM2IiwgInBvcnQiOiAyMDg2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkifQ==</code></p>
-
-<p align='center'><img src='img/8.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjNCIsICJhZGQiOiAiMTA0LjE5LjQ2LjM5IiwgInBvcnQiOiAyMDg2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkifQ==</code></p>
-
-<p align='center'><img src='img/9.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjNSIsICJhZGQiOiAiMTA0LjE5LjIxLjI0MCIsICJwb3J0IjogMjA1MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIn0=</code></p>
-
-<p align='center'><img src='img/10.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjNiIsICJhZGQiOiAiMTA0LjE5LjQ3LjMyIiwgInBvcnQiOiAyMDg2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkifQ==</code></p>
-
-<p align='center'><img src='img/11.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.39.227.28:443#1%7C_US__5</code></p>
-
-<p align='center'><img src='img/12.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjNyIsICJhZGQiOiAiY2ZjZG4yLnNhbmZlbmNkbjkuY29tIiwgInBvcnQiOiAyMDUyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhYjFlZTFhYy04ODRjLTQ0ZGMtYWI2NS1kNTMzZDMyZTJiMWEifQ==</code></p>
-
-<p align='center'><img src='img/13.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjOCIsICJhZGQiOiAiMTA0LjIwLjI1LjE0NiIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5In0=</code></p>
-
-<p align='center'><img src='img/14.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.207:7001#1%7C_US__7</code></p>
-
-<p align='center'><img src='img/15.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjOSIsICJhZGQiOiAiMTcyLjY0LjE5OC4yNDkiLCAicG9ydCI6IDIwODYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSJ9</code></p>
-
-<p align='center'><img src='img/16.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDYyYTVjYS1hMzRlLTQ3YmYtOTgxMC1kYjkxMTg1ZjA3ZmM=@fuck5.mmmmmmmmmm.cfd:59019#1%7C_US_-%3E_ES_</code></p>
-
-<p align='center'><img src='img/17.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMTAiLCAiYWRkIjogIjEwNC4xOS4yMS4yMzAiLCAicG9ydCI6IDIwODYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSJ9</code></p>
-
-<p align='center'><img src='img/18.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMTEiLCAiYWRkIjogIjEwNC4xOS40NS40NyIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5In0=</code></p>
-
-<p align='center'><img src='img/19.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSwzLDYsMTEsMTd88J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKcgIzkiLCAiYWRkIjogIjEwNC4xOC41Ny4xMTEiLCAicG9ydCI6IDIwODYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSJ9</code></p>
-
-<p align='center'><img src='img/20.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMTIiLCAiYWRkIjogIjEwNC4xOS40Ny4xMjYiLCAicG9ydCI6IDgwODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCJ9</code></p>
-
-<p align='center'><img src='img/21.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMTMiLCAiYWRkIjogIjEwNC4xOS40Ni4xMjMiLCAicG9ydCI6IDIwNTIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQ2YjZkOTgyLWQ1MmYtNDY1YS1iOTg4LTg1NjcwYjIzZjY0YSJ9</code></p>
-
-<p align='center'><img src='img/22.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.87.28:443#1%7C_SG_</code></p>
-
-<p align='center'><img src='img/23.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRXlPVFdtdFBHNXRkZ1pxTVFFcTRS@51.141.73.244:29814#1%7C_US__11</code></p>
-
-<p align='center'><img src='img/24.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMTQiLCAiYWRkIjogIjEwNC4xOS41MS4yMzIiLCAicG9ydCI6IDIwODYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSJ9</code></p>
-
-<p align='center'><img src='img/25.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>ss://YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA==@59.56.77.178:15082#1%7C_CN_</code></p>
-
-<p align='center'><img src='img/26.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMTUiLCAiYWRkIjogIjEwNC4xOS40Ni4yMzMiLCAicG9ydCI6IDIwODYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSJ9</code></p>
-
-<p align='center'><img src='img/27.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMTYiLCAiYWRkIjogIjEwNC4xOS40Ni41OSIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5In0=</code></p>
-
-<p align='center'><img src='img/28.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMTciLCAiYWRkIjogIjEwNC4xOS40Ni4yNyIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5In0=</code></p>
-
-<p align='center'><img src='img/29.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMSw2LDExfDEsNiwxMXwxLDYsMTF8MSw2LDExfDEsNiwxMXwxLC4uLiAjMTgiLCAiYWRkIjogIjEwNC4xOS40NS4xNSIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5In0=</code></p>
-
-<p align='center'><img src='img/30.png' alt='QR Code' width='300'></p>
-
-<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAiMiwxMXwyLDExfDIsMTF8MiwxMXwyLDExfDIsMTF8MiwxMXwuLi4iLCAiYWRkIjogImRlLWZyYW5rZnVydC1vcmFjbGUtYjI2Y2Y1LmlwMS5zaG9wIiwgInBvcnQiOiA0NTEwMywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNmQzNDA0ZWYtMjdjNi00OGRlLWE4M2EtOGFjNjQ4ODc2MGI0In0=</code></p>
+<p align='center'><code>vmess://eyJ2IjogIjIiLCAicHMiOiAi5aaC5pyJ6ZyA6KaB77yM6Ieq6KGM5pCt5bu6IiwgImFkZCI6ICJ3ZWIuNTEubGEiLCAicG9ydCI6ICI0NDMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZTBjNmIzYjctOWY1Yi00YmQ2LTlhYmYtMjYwNjYzYWE0ZjFiIiwgInNuaSI6ICJ3ZWIuNTEubGEifQ==</code></p>
